@@ -30,7 +30,7 @@ var q4a2 = document.getElementById("q4a2");
 var q4a3 = document.getElementById("q4a3");
 var q4a4 = document.getElementById("q4a4");
 
-var q5a1 = document.getElementById("q5a1");
+var q5a1 = document.getElementById("q5a1"); 
 var q5a2 = document.getElementById("q5a2");
 var q5a3 = document.getElementById("q5a3");
 var q5a4 = document.getElementById("q5a4");
